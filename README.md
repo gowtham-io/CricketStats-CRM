@@ -6,7 +6,7 @@
 **CRICKSTATS** (CricketStats-CRM) is a comprehensive performance tracking application and CRM designed to help coaches, managers, and analysts monitor, record, and evaluate the statistics and performance metrics of cricket players over time.
 
 ### 📁 Project Files
-Access the complete source code, documentation, and assets here:
+Access here:
 **[Cricket Player Performance Tracking Application : CRICKSTATS (Google Drive Link)](https://drive.google.com/drive/folders/1qDKNsrBC7xtJLUgELdFB791o6hjRLqmt?usp=sharing)**
 
 ---
